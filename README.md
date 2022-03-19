@@ -5,5 +5,5 @@ MediaWiki to LaTeX converts Wiki pages to LaTeX and PDF. It works with any websi
 ## my use
 I use [this](https://de.wikibooks.org/wiki/Benutzer:Dirk_H%C3%BCnniger/wb2pdf/install) tool to generate pdfs of wikipedia pages.
 
-## onlin convertion
+## online
 https://mediawiki2latex.wmflabs.org/
